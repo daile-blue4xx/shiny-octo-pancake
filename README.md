@@ -29,3 +29,8 @@
 📜 License
 <br> This tool is a deployment wrapper only.
 <br> Windows 11 licensing governed by Microsoft Software License Terms.
+
+
+
+
+<!-- topics: windows-11, windows-deployment, automation, sysadmin, powershell -->
